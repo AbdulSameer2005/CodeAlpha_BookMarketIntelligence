@@ -1,5 +1,7 @@
 # 📚 Book Market Intelligence Web Scraper
 
+![Python Badge](https://img.shields.io/badge/Python-3.11-blue) ![Pandas Badge](https://img.shields.io/badge/Pandas-Data%20Analysis-green) ![BeautifulSoup Badge](https://img.shields.io/badge/BeautifulSoup-Web%20Scraping-orange)
+
 ### 👨‍💻 Author
 
 # Shaik Abdul Sameer
