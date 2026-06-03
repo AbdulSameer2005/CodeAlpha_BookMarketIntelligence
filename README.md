@@ -124,4 +124,12 @@ CodeAlpha Data Analytics Internship – Task 1 (Web Scraping)
 
 ### Connect With Me
 
-GitHub: AbdulSameer2005
+## 📬 Contact
+
+### Shaik Abdul Sameer
+
+📧 Email: abdulsameershaik013@gmail.com
+
+🔗 LinkedIn: https://www.linkedin.com/in/shaik-abdul-sameer-31a5712a5
+
+💻 GitHub: https://github.com/AbdulSameer2005
